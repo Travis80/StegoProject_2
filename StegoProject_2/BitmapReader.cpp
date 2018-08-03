@@ -19,6 +19,7 @@ unsigned char toCGC[256];
 unsigned char toPBC[256];
 
 // default values
+//Change
 unsigned char gNumLSB = 1, gMask = 0xfe, gShift = 7;
 
 // this function builds the canonical gray code array variables
